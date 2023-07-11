@@ -1,3 +1,4 @@
+name: Deploy lambda to AWS
 on:
     push:
         branches:
